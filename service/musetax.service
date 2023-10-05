@@ -1,0 +1,15 @@
+GNU nano 6.2
+[Unit]
+Description=Musetax API service
+After=syslog.target network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+WorkingDirectory=/home/ubuntu/muse-api
+ExecStart=/home/ubuntu/muse-api/venv/bin/python3 manage.py runserver
+User=root
+
+[Install]
+WantedBy=multi-user.target

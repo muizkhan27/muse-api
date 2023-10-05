@@ -1,0 +1,186 @@
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Muse Tax Rules</title>
+    </head>
+    <style>
+        @media print {
+            .page-break:not(:last-child) {
+                page-break-after: always;
+            }
+        }
+
+        .section-five {
+            min-height: 1000px;
+            position: relative;
+        }
+
+        .table {
+            width: 1000px;
+            margin: auto;
+        }
+
+        .left-part {
+            width: 600px;
+            float: left;
+        }
+
+
+        .str-name {
+            font-size: 2.5rem;
+            color: #1F2B6C;
+            margin-bottom: 15px;
+            margin-top: 30px;
+        }
+
+        .str-line {
+            width: 600px;
+            height: 10px;
+            background-color: #8292E8;
+            margin-bottom: 30px;
+        }
+
+        .cat-name {
+            margin-top: 4rem;
+            margin-bottom: 0;
+            color: #000000;
+        }
+
+        .right-part {
+            float: right;
+            width: 350px;
+            background-color: #E7F7FF;
+            height: 1400px;
+            box-sizing: border-box;
+        }
+
+        .rec-str {
+            margin-left: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .action-item {
+            margin-left: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .sav-div {
+            float: left;
+            width: 200px
+        }
+
+        .savings {
+            margin-top: 2rem;
+            margin-bottom: 0;
+            color: #333;
+            font-weight: 300;
+        }
+
+        .savings-text {
+            margin-top: 0;
+            color: #19235c;
+            font-size: 24px ! important;
+            width: 150px;
+        }
+
+        .impl-div {
+            float: right;
+            width: 150px
+        }
+
+        .impl {
+            margin-top: 2rem;
+            margin-bottom: 0;
+            color: #333;
+            font-weight: 300;
+        }
+
+        .impl-val {
+            margin-top: 0;
+            font-size: 24px ! important;
+            color: #19235c;
+            width: 150px
+        }
+
+        .right-content {
+            padding-left: 1.2rem;
+            padding-right: 1.2rem;
+            font-size: 17px;
+            list-style-type: square;
+        }
+
+        .strategy-img {
+            width: 280px;
+            height: 280px;
+            margin-left: 160px;
+            margin-top: 2rem;
+        }
+
+        .str-desc {
+            font-size: 19px;
+        }
+    </style>
+
+    <body>
+        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center"
+            class="table">
+            <tr>
+                <td>
+                    <div class="section-five">
+                        <div class="left-part">
+                            <h1 class="str-name">{{strategy['Strategy Name']}}</h1>
+                            <div class="str-line">
+                            </div>
+                            <p class="str-desc">
+                                {% for sentence in strategy['Description'].split('.')[:-1] %}
+                                <span>{{sentence}}.</span><br>
+                                {% endfor %}
+                            </p>
+                            <h1 class="cat-name">
+                                {{category}}
+                            </h1>
+                            <img class="strategy-img" src="{{ image_url }}" alt="strategy-img">
+                            <div class="sav-div">
+                                <h3 class="savings">
+                                    Potential tax savings</h3>
+                                <h6 class="savings-text">
+                                    {% if strategy['Est. Savings'] != 'varies' %}
+                                    $
+                                    {% endif %}
+                                    {{strategy['Est. Savings']}}
+                                </h6>
+                            </div>
+                            <div class="impl-div">
+                                <h3 class="impl">Ease of
+                                    Implementation</h3>
+
+                                <h6 class="impl-val">
+                                    {{strategy['Ease of Implementation']}}
+                                </h6>
+                            </div>
+                        </div>
+                        <div class="right-part">
+                            <h1 class="rec-str">Recommended Strategy
+                            </h1>
+                            <ul class="right-content">
+                                {% for sentence in strategy['Recommended Strategy'].split('.')[:-1] %}
+                                <li style="margin-left: 1rem; margin-bottom: 1rem;">{{sentence}}.</li>
+                                {% endfor %}
+                            </ul>
+                            <h1 class="action-item">Action Items</h1>
+                            <ul class="right-content">
+                                {% for sentence in strategy['Action Items'].split('.')[:-1] %}
+                                <li style="margin-left: 1rem; margin-bottom: 1rem;">{{sentence}}.</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="page-break"></div>
+    </body>
+
+</html>

@@ -1,0 +1,826 @@
+{
+  "2020": {
+    "single": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 9875
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 9876,
+          "end": 40125
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 40126,
+          "end": 85525
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 85526,
+          "end": 163300
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 163301,
+          "end": 207350
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 207351,
+          "end": 518400
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 518401,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_joint": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 19750
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 19751,
+          "end": 80250
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 80251,
+          "end": 171050
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 171051,
+          "end": 326600
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 326601,
+          "end": 414700
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 414701,
+          "end": 622050
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 622051,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_separate": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 9875
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 9876,
+          "end": 40125
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 40126,
+          "end": 85525
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 85526,
+          "end": 163300
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 163301,
+          "end": 207350
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 207351,
+          "end": 311025
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 311026,
+          "end": "inf"
+        }
+      }
+    ],
+    "head_of_household": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 14100
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 14101,
+          "end": 53700
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 53701,
+          "end": 85500
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 85501,
+          "end": 163300
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 163301,
+          "end": 207350
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 207351,
+          "end": 518400
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 518401,
+          "end": "inf"
+        }
+      }
+    ]
+  },
+  "2021": {
+    "single": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 9950
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 9951,
+          "end": 40525
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 40526,
+          "end": 86375
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 86376,
+          "end": 164925
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 164926,
+          "end": 209425
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 209426,
+          "end": 523600
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 523601,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_joint": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 19900
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 19901,
+          "end": 81050
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 81051,
+          "end": 172750
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 172751,
+          "end": 329850
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 329851,
+          "end": 418850
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 418851,
+          "end": 628300
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 628301,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_separate": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 9950
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 9951,
+          "end": 40525
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 40526,
+          "end": 86375
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 86376,
+          "end": 164925
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 164926,
+          "end": 209425
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 209426,
+          "end": 314150
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 314151,
+          "end": "inf"
+        }
+      }
+    ],
+    "head_of_household": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 14200
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 14201,
+          "end": 54200
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 54201,
+          "end": 86350
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 86351,
+          "end": 164900
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 164901,
+          "end": 209400
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 209401,
+          "end": 523600
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 523601,
+          "end": "inf"
+        }
+      }
+    ]
+  },
+  "2022": {
+    "single": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 10275
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 10276,
+          "end": 41775
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 41776,
+          "end": 89075
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 89076,
+          "end": 170050
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 170051,
+          "end": 215950
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 215951,
+          "end": 539900
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 539901,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_joint": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 20550
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 20551,
+          "end": 83550
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 83551,
+          "end": 178150
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 178151,
+          "end": 340100
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 340101,
+          "end": 431900
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 431901,
+          "end": 647850
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 647851,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_separate": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 10275
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 10276,
+          "end": 41775
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 41776,
+          "end": 89075
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 89076,
+          "end": 170050
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 170051,
+          "end": 215950
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 215951,
+          "end": 323925
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 323926,
+          "end": "inf"
+        }
+      }
+    ],
+    "head_of_household": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 14650
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 14651,
+          "end": 55900
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 55901,
+          "end": 89050
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 89051,
+          "end": 170050
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 170051,
+          "end": 215950
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 215951,
+          "end": 539900
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 539901,
+          "end": "inf"
+        }
+      }
+    ]
+  },
+  "2023": {
+    "single": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 11000
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 11001,
+          "end": 44725
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 44726,
+          "end": 95375
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 95376,
+          "end": 182100
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 182101,
+          "end": 231250
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 231251,
+          "end": 578125
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 578126,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_joint": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 22000
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 22001,
+          "end": 89450
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 89451,
+          "end": 190750
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 190751,
+          "end": 364200
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 364201,
+          "end": 462500
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 462501,
+          "end": 693750
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 693751,
+          "end": "inf"
+        }
+      }
+    ],
+    "married_separate": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 11000
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 11001,
+          "end": 44725
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 44726,
+          "end": 95375
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 95376,
+          "end": 182100
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 182101,
+          "end": 231250
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 231251,
+          "end": 346875
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 346876,
+          "end": "inf"
+        }
+      }
+    ],
+    "head_of_household": [
+      {
+        "bracket": 10,
+        "income_range": {
+          "start": 0,
+          "end": 15700
+        }
+      },
+      {
+        "bracket": 12,
+        "income_range": {
+          "start": 15701,
+          "end": 59850
+        }
+      },
+      {
+        "bracket": 22,
+        "income_range": {
+          "start": 59851,
+          "end": 95350
+        }
+      },
+      {
+        "bracket": 24,
+        "income_range": {
+          "start": 95351,
+          "end": 182100
+        }
+      },
+      {
+        "bracket": 32,
+        "income_range": {
+          "start": 182101,
+          "end": 231250
+        }
+      },
+      {
+        "bracket": 35,
+        "income_range": {
+          "start": 231251,
+          "end": 578100
+        }
+      },
+      {
+        "bracket": 37,
+        "income_range": {
+          "start": 578101,
+          "end": "inf"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Muse Tax Rules</title>
+    </head>
+    <style>
+        @media print {
+            .page-break:not(:last-child) {
+                page-break-after: always;
+            }
+        }
+
+        .table {
+            width: 1000px;
+            margin: auto;
+        }
+
+        .section {
+            text-align: center;
+            height: fit-content;
+        }
+
+        .title-style {
+            text-align: center;
+            margin-top: 3rem;
+            font-size: 35px;
+        }
+
+        .username {
+            text-align: center;
+            font-size: 50px;
+            font-weight: bolder;
+            margin-top: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .muse-logo {
+            width: 250px;
+            height: 200px;
+            padding-top: 18rem;
+        }
+    </style>
+
+    <body>
+        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center"
+            class="table">
+            <tr>
+                <td>
+                    <div class="section">
+                        <img class="muse-logo" src="{{ images.logo }}" alt="logo">
+                        <p class="title-style">{{tax_year}} Tax Savings Plan
+                        </p>
+                        <h1 class="username">
+                            {{username}}
+                        </h1>
+                        <p>Put More Dollars in Your Pockets Starting Today</p>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="page-break"></div>
+        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center"
+            class="document table">
+            <tr>
+                <td>
+                    <div class="section-two" style="position:relative;">
+
+                        <div class="mid" style="text-align:center;">
+
+                            <h2 style="font-size: 2.5rem;color:#1F2B6C; margin-top:13rem;" class="heading">
+                                Table of Contents
+                            </h2>
+                            <div style="margin-top: 5rem;" class="image-panel">
+                                <img src="{{ images.disclaimer }}" alt="img"><br>
+                                <img style="margin-top: 2.5rem;" src="{{ images.top_savings }}" alt="img">
+                                <img style="margin-top: 2.5rem;" src="{{ images.strategy }}" alt="img">
+                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="page-break"></div>
+        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center"
+            class="document table">
+            <tr>
+                <td>
+                    <div class="section-three" style="position: relative;">
+                        <div class="mid" style="text-align:left;">
+                            <h1 style="font-size: 3.5rem;color:#1F2B6C; margin-top:9rem; " class="heading">Disclaimer
+                            </h1>
+                            <p style="margin-top: 5rem; font-size: larger;">All tax planning, strategies, insights and
+                                recommendations in this plan are based on your tax return data and current tax
+                                law. Tax laws can and do change frequently. Effective tax planning is a lifelong
+                                process. It requires regular updates to review the taxpayer's goals, life
+                                changes, investments, businesses, changes in income, pre-tax opportunities,
+                                retirement planning, state and local taxation, and more.</p>
+                            <p style="margin-top: 2rem; font-size: larger;">The recommendations included in this report
+                                include
+                                assumptions and results are not guaranteed. The actual results will vary from
+                                projections. The actual tax savings will vary from the estimated tax savings.
+                                These plans are intended to guide you with your decisions. Many of the tax
+                                savings estimated in this plan depend on you completing certain action items. If
+                                you fail to take necessary actions, the tax strategies may not yield the
+                                estimated benefit. As life changes happen, communication of such changes are
+                                critical to the evolution of this plan. We do not assume responsibility for the
+                                advice of any additional professionals and we have no obligation to update this
+                                tax plan.</p>
+                            <p style="margin-top: 2rem; font-size: larger;">The United States has a progressive tax
+                                system.
+                                That means people with higher taxable incomes are subject to higher tax rates,
+                                while people with lower taxable incomes are subject to lower tax rates. There
+                                are seven federal income tax brackets so no one truly pays just one tax rate.
+                            </p>
+                            <p style="margin-top: 2rem; font-size: larger;">For reason of estimation, we will use a
+                                marginal tax rate based on your income. This is the amount of additional tax
+                                paid for every additional dollar earned as income.
+                            </p>
+                            <p style="margin-top: 4rem; font-size: x-large;"><strong>Your marginal tax rate is:
+                                    {{tax_rate}}%
+                                </strong>
+                            </p>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="page-break"></div>
+        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center"
+            class="document table">
+            <tr>
+                <td>
+                    <div class="section-five">
+                        <h2 style="font-size: 2.5rem;color:#1F2B6C; margin-top:10rem; margin-bottom: 4rem;">
+                            Top Tax Plans
+                        </h2>
+                        <div>
+                            <div class="left-part"
+                                style="background-color:#E7F7FF; width:470px; height:auto; border-radius: 15px; padding: 20px;">
+                                <div style="color:#1f2b6c; width: 300px; float: left;">
+                                    <h3>
+                                        {{ top_plans[0]['Strategy Name'] }}
+                                    </h3>
+                                </div>
+                                <div style="color:#000000; width: 140px; float: right;">
+                                    <h3 style="float: right; line-height: 30px;">
+                                        ${{ top_plans[0]['Est. Savings'] }} Savings
+                                    </h3>
+                                </div>
+                                {% for plan in top_plans[1:-1] %}
+                                <div style="color:#1f2b6c; width: 300px; float: left;  margin-top: 3rem;">
+                                    <h3>
+                                        {{ plan['Strategy Name'] }}
+                                    </h3>
+                                </div>
+                                <div style="color:#000000; width: 140px; float: right;  margin-top: 1.8rem;">
+                                    <h3 style="float: right; line-height: 30px;">
+                                        ${{ plan['Est. Savings'] }} Savings
+                                    </h3>
+                                </div>
+                                {% endfor %}
+                            </div>
+                            <div
+                                style="display: flex; justify-content: center; align-items: center; padding-top: 20rem;">
+                                <div
+                                    style="text-align:center;  border-radius:100%; padding:3rem;border:5px solid #8292E8; width:120px; height: 120px; display:flex; align-items: center;">
+                                    <div class="inner">
+                                        <h2 style="color:#1f2b6c; margin-top:2rem;">
+                                            ${{ top_plans[-1] }}
+                                        </h2>
+                                        <p style="color:#1f2b6c;font-size:16px;">Estimated Tax Savings</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </td>
+            </tr>
+        </table>
+        <div class="page-break"></div>
+        <table role="presentation" aria-hidden="true" cellspacing="0" cellpadding="0" border="0" align="center"
+            class="document table">
+            <tr>
+                <td>
+                    <div style="position:relative; text-align: center;">
+                        <h1 style="font-size: 3.5rem;color:#1F2B6C; margin-top:19rem;font-weight:600;" class="heading">
+                            Strategy<br>Overview
+                        </h1>
+                        <img style="margin-top: 3.5rem; width:155px; height:auto;" src="{{ images.overview }}" alt="">
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="page-break"></div>
+    </body>
+
+</html>

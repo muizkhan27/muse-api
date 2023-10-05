@@ -1,0 +1,162 @@
+{
+  "Life": {
+    "A19": {
+      "Strategy Name": "Student Loan Payments Made By Employer",
+      "Description": "The CARES Act permits an employer to pay up to $5,250 of an employee's qualified educational expenses with the payment being tax-free to the employee. Keep in mind that the tax-free amount of $5,250 is the combined limit for loan repayment and other types of education assistance under Section 127 of the Internal Revenue Code.",
+      "Recommended Strategy": "Because education assistance payments are combined for the purposes of this strategy, you can consider payments to different items to get the full credit.You cannot apply for the credit for the same expenses.For example, your employer can pay $3,000 towards a Master's degree and another $4,000 towards student loan payments each year through 2025 and you will get the full $5,250 credit.",
+      "Action Items": "Ask your employer if they provide financial aid for education and if their student loan coverage policy has been updated.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M3"
+    },
+    "A24": {
+      "Strategy Name": "Dependent Care Reimbursement",
+      "Description": "Dependent care reimbursement is a tax savings program that allows employees to use pre-tax dollars to pay for certain expenses related to the care of dependents, such as children, disabled adults, or elderly parents.This allows you to care for your dependents and save money while working.The money you contribute to a Dependent Care FSA is not subject to payroll taxes, so you pay less in taxes and take home more of your paycheck.The dependent care reimbursement program typically covers daycare, after-school care, summer day camps, and certain in-home care services.Employees can contribute a certain amount of their pre-tax income to a dependent care account used to pay for eligible expenses throughout the year.",
+      "Recommended Strategy": "You should set up a Dependent Care FSA and save an average of 30 percent on dependent care services. The great thing about these plans is you are still eligible for the Dependent Care Tax Credit but you cannot double-dip. You cannot claim tax benefits for the same eligible expenses.If you have two or more children and you've already maxed out your Dependent Care FSA to the $5,000 limit, but your qualifying child care expenses hit or exceed the $6,000 cap for the Child Care Tax Credit, you can take advantage of both the FSA and the Tax Credit.The Child Care Tax Credit will only be applicable on the $1,000 that was “unreimbursable” from your FSA.So if your income puts you in the 20% credit range, that could save you another $200 on taxes.",
+      "Action Items": "Sign up for a Dependent Care FSA and max it out based on your expenses.Track your dependent care expenses so you can ensure that you are able to take advantage of both options.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M6"
+    },
+    "A25": {
+      "Strategy Name": "Gift Stock To Children For Tuition",
+      "Description": "This tax planning strategy is very common among high income taxpayers. Some high income taxpayers give their children appreciated stock as a way to transfer income to them for college expenses up to the annual gift exclusion of $17,000.For some individuals, this won't pose a problem so long as the annual amount of gifted stock falls below $17,000 per person (or $34,000 per married couple filing jointly) for 2023.",
+      "Recommended Strategy": "About 58% of Americans own stock and some are looking for ways to pass on their stock to their children while reaping some tax savings.You can transfer appreciated stock to your child and benefit from their lower tax rate.The annual gift exclusion for each child with no gift tax and no requirement to file a gift tax return is $17,000 for 2023.Assuming you donate up to $17,000 of appreciated stock (up to the annual gift exclusion) that has been held for a year and taxed at the long term capital gains rate of 20%, that would yield a tax savings of $3,400.",
+      "Action Items": "Choose the appreciated stock that has applicable long term gain for gifting.Inform your brokerage company that you would like to transfer the stock as a gift rather than selling it.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M2"
+    },
+    "A26": {
+      "Strategy Name": "Health Savings Account (HSA)",
+      "Description": "A Health Savings Account (HSA) is a tax-advantaged savings account designed to help individuals with high-deductible health plans (HDHPs) save money for qualified medical expenses.HSAs can be a valuable tool for individuals who are enrolled in a high-deductible health plan and want to save money on their healthcare expenses. HSA's allows your money to grow tax-free now or in retirement to pay for qualified medical expenses.That means if you pay for a qualified medical costs out of an HSA, the money you take out is tax-free. The contribution maximum for families is $7,750 and for everyone else $3,850.",
+      "Recommended Strategy": "A great feature of HSAs is, they allow you to invest your balance like an IRA. Once you start investing through your HSA, you can begin reaping the rewards— one of the biggest being a triple tax advantage.A triple tax-advantage means, contributions are tax-deductible, growth is tax-free and the distributions are tax-free when used for qualified medical expenses. In addition, unlike a 401(k) or IRA, you don't have to deduct money from the account at a certain age.If you're investing over the long term in your HSA, that tax-free growth can make a significant difference in the amount of money you keep. Assume you contribute the maximum of $3,850 at your marginal rate, that would yield a tax savings of $XX. ",
+      "Action Items": "If your employer offers an HSA, then the best way to contribute money to your HSA is through payroll deductions.This method allows you to make pre-tax contributions. If you have a balance in your HSA account, consider rolling it into an investment account to get the benefit of tax free growth.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M6"
+    },
+    "A33": {
+      "Strategy Name": "529 Plan",
+      "Description": "A 529 college savings plan is a specific kind of investment account created to assist families in setting aside money for future educational costs.Most 529 plan contributions are made with after-tax money, the investment grows tax-free, and withdrawals used for qualified educational expenses are tax-free as well.In a 529 plan, parents may make contributions up to the annual gift tax exclusion ($17,000 in 2023) without paying gift tax or lowering their lifetime gift tax exemption.",
+      "Recommended Strategy": "Student loans are a type of crippling debt that hampers most Americans. You can give your family a head start on financial freedom by considering a 529 plan. There are two main types of 529 plans: prepaid tuition plans and college savings plans. Prepaid tuition plans allow you to pay for future college expenses at current tuition rates, while college savings plans let you invest in a variety of funds, similar to a 401(k) or IRA. The contributions to a 529 plan are made with after-tax dollars, but the earnings grow tax-free and withdrawals are also tax-free as long as the funds are used for qualified education expenses such as tuition, fees, books, and room and board. One of the benefits of a 529 plan is that it can be used for both undergraduate and graduate school, and there are no income restrictions on who can contribute. Additionally, some states offer tax deductions or credits for contributions made to a 529 plan. 529 plan holders are able to withdraw up to $10,000 tax-free to put toward each beneficiary. ",
+      "Action Items": "Choose a 529 Plan that is offered by a financial institution through a state program.Determine the type of 529 Plan Account that fits your profile.Complete the 529 Plan Application.Fund the 529 Plan.Choose Investments for the 529 Plan.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M2"
+    },
+    "A35": {
+      "Strategy Name": "W-4 Update (Tax Refund)",
+      "Description": "A tax refund is the amount of money you overpaid to the IRS throughout the year, which is then returned to you. When you file your tax return, you calculate your total tax liability for the year based on your income, deductions, and credits.If the amount of tax you paid throughout the year through withholding or estimated tax payments is more than your total tax liability, you will receive a refund for the difference. By receiving a refund, you are giving the IRS an interest free loan of your money.You could be spending that money, investing, using it as a down payment for a home or paying down debt. ",
+      "Recommended Strategy": "Consider updating your W-4 to increase your take home pay and put that money to use for you. You can invest the additional money you receive or deposit it in a high yield savings account.",
+      "Action Items": "Create an emergency fund with your refund. Add it to your retirement savings. Start a business. You can pay off credit card debt with your refund. Add it to your HSA.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M3"
+    },
+    "A37": {
+      "Strategy Name": "Residential Clean Energy Credit",
+      "Description": "The Residential Clean Energy Credit is a 30% credit for certain qualified expenditures made by a taxpayer for a residential energy-efficient property during a year.The credit rate of 30% applies to property placed in service after December 31, 2021, and before January 1, 2033, and there is no overall dollar limit. Even more, the cost of labor for onsite preparation, assembly, or original installation can be included in the calculation of the credit.Not only can energy efficient home improvements lower the cost of heating and cooling your home, but these credits also help to lower the cost of purchasing them.As a result, these tax credits can prove cost-effective if combined with home improvements that lower your cost of living.",
+      "Recommended Strategy": "If you are looking to make improvements to your home, consider purchasing qualified energy efficient items to take advantage of this tax credit. There are several eligible expenditures that qualify including:- Solar panels and water heaters- Fuel cells- Wind turbines- Geothermal heat pumps- Battery storage technologySince there is no dollar amount limit, you can outfit your home with eligible expenditures and essentially get a 30% discount with this credit (credits reduce taxable income dollar for dollar).",
+      "Action Items": "Review the IRS Fact Sheet that lists eligible energy efficient items. Determine which energy efficient improvements you would like to make. Save all purchase and labor receipts. File Form 5695 to claim the credits.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M8"
+    },
+    "A38": {
+      "Strategy Name": "W-4 Update (Tax Owed)",
+      "Description": "A W-4 update can help keep your withholding in line with your tax liability and prevent unpleasant tax surprises by keeping the form up to date with changes. Always adjust your W-4 when life changes occur such as,Lifestyle change:Marriage, divorce, birth or adoption of a child, home purchase.Wage income:You or your spouse starts or stops working or starts or stops a second job.Consider other taxable income not subject to withholding, such as interest, dividends, capital gains, self-employment, gig economy income, and IRA (including specific Roth IRA) distributions. Lastly, consider itemized deductions or tax credits such as medical expenses, taxes, interest expenses, gifts to charity, dependent care expenses, education credits, Child Tax Credits, and Earned Income Tax credits.",
+      "Recommended Strategy": "The ideal way to handle your tax withholding is to have just enough taxes withheld to prevent you from incurring penalties when your tax return is due, but still owing just a little bit rather than receiving a refund. You will have to make sure you have a little set aside to make a payment in April each year, but in the meantime, you get to enjoy all of the money you earn throughout the year rather than waiting for the IRS to return it to you upon filing your return. Use the formula below to adjust your withholding amount from your bi-monthly paycheck. Assume you owe the IRS $10,000, and your marginal tax rate is 22%. Multiply the amount owed ($10,000) by your marginal tax rate, then divide by 24 (assuming receiving a bi-monthly paycheck in a calendar year). ",
+      "Action Items": "Pay what you can: If you can't pay the total amount you owe, pay as much as possible to reduce the penalties and interest you'll owe. You can pay online, by phone, mail, or in person. Consider a payment plan: If you can't pay your tax debt in full, you can set up a payment plan with the IRS. Different payment plans are available, and you can apply online or by phone. Consider an Offer in Compromise: Sometimes, you can settle your tax debt for less than the total amount owed through an Offer in Compromise. However, this option is typically only available if you meet specific criteria. ",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M3"
+    },
+    "A39": {
+      "Strategy Name": "Energy Efficient Home Improvement Credit",
+      "Description": "If you are looking to make improvements to your home, consider purchasing qualified energy efficient items to take advantage of this tax credit. There are several eligible expenditures that qualify including:- Central air conditioners, energy efficient doors/windows- Natural gas, propane, or oil water heaters/boilers- Energy efficient windows/doors- Electric or natural gas heat pumps; electric or natural gas heat pump water heaters and much more.Because there are credit limits for purchasing these items, the credit may be limited in certain instances. Keep in mind, credits reduce taxable income dollar for dollar.",
+      "Recommended Strategy": "If you are looking to make improvements to your home, consider purchasing qualified energy efficient items to take advantage of this tax credit. There are several eligible expenditures that qualify including:- Central air conditioners, energy efficient doors/windows- Natural gas, propane, or oil water heaters/boilers- Energy efficient windows/doors- Electric or natural gas heat pumps; electric or natural gas heat pump water heaters and much more.Because there are credit limits for purchasing these items, the credit may be limited in certain instances. Keep in mind, credits reduce taxable income dollar for dollar.",
+      "Action Items": "Review the IRS Fact Sheet that lists eligible energy efficient items. Determine which energy efficient improvements you would like to make. Save all purchase and labor receipts. File Form 5695 to claim the credits.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M8"
+    }
+  },
+  "Business": {
+    "A1": {
+      "Strategy Name": "Accountable Reimbursement Plan",
+      "Description": "An accountable reimbursement plan allows employees to receive reimbursement for out-of-pocket business-related expenses. Employers can deduct many expenses that employees cannot, such as uniform costs, cell phone costs, and per diems.The benefit is that the employers get a reimbursement, and the employee gets reimbursed. The amount of deductible expenses incurred when using an accountable reimbursement plan reduces the employer's taxable income.This means that reimbursements are not subject to withholding taxes or W-2 reporting.",
+      "Recommended Strategy": "This strategy requires good bookkeeping. Your company should reimburse you for any mileage or vehicle expenses along with any company-related expenses you paid for, such as office supplies, travel, professional fees, postage, etc. Not only will you be reimbursed for your expenses, the total of all properly accounted for expenses will reduce your business taxable income. Assume $1,000 in eligible expenses are deducted, that would yield a tax savings of $XX at your marginal rate.",
+      "Action Items": "Document the true business purpose for the expense. Ensure expenses are substantiated within a reasonable period. Make sure employees return any money not spent to the employer.",
+      "Ease of Implementation": "Moderate",
+      "Muse Image": "M7"
+    },
+    "A2": {
+      "Strategy Name": "S - Corp Conversion",
+      "Description": "S-Corp conversion is the process of electing S-Corporation tax treatment for a standard C corporation or limited liability company (LLC). The main benefit of incorporating as an S-Corporation over being self-employed is the tax savings on self-employment taxes (Social Security and Medicare).Once converted, an S-Corp must pay a reasonable salary to any shareholder/employee. For each dollar of profit beyond that, it could mean as much as 15 point 3% in savings on the first $160,200 of salary when it's time to pay taxes.An S-Corp can help you save in two ways: Your employee payroll taxes and wages are a deduction for the company, and your taxes are taken directly from your paycheck. Your profits are not taxed as self-employment income saving you 15 point 3% on taxes for the earnings between a reasonable salary up to $160,200.",
+      "Recommended Strategy": "The key tax savings with this strategy is to shift income from self-employment income tax treatment to S-Corp tax treatment.If you have enough income to justify paying yourself a reasonable salary, convert to an S-Corp and pay yourself that salary, thus saving 15 point 3% in taxes.Example:Assume your business income is $50,000 and your salary for your S-Corp is $30,000. The self-employment tax WITHOUT the S-Corp election is $7,650 (0 point 153% x $50,000), while the self-employment tax as an S-Corporation ($30,000 x 0 point 153%) is $4,590. That's a savings of $3,060.",
+      "Action Items": "When you are confident that you want to file the S-Corp election, file Form 2553 with the IRS.You might need to file a similar form with your state's tax division. Some states might require their own S-Corp election process.To elect the S-Corp filing for the current tax year, file no more than two months and 15 days after the tax year begins.",
+      "Ease of Implementation": "Advanced",
+      "Muse Image": "M4"
+    },
+    "A3": {
+      "Strategy Name": "Simplified Employee Pension Individual Retirement Plan (SEP-IRA)",
+      "Description": "A Simplified Employee Pension (SEP) plan allows employers to contribute to traditional IRAs for employees. A business of any size, even self-employed individuals, can establish a SEP. Employers, business owners, freelancers, and other self-employed people can make retirement contributions to their employees through a SEP plan. Generally, SEP IRAs are best for self-employed individuals or small-business owners with few or no employees because some employees may be considered eligible participants in your plan, meaning you must contribute on their behalf, and those contributions must be an equal percentage of compensation to your own. For a self-employed individual, contributions are limited to 25% of your net earnings from self-employment (not including contributions for yourself). These contributions grow tax-deferred while in the plan.",
+      "Recommended Strategy": "This tax saving recommendation is to increase your after tax cash flow by lowering your taxable income and maximizing your retirement.You can contribute up to 25% of total compensation or a maximum of $66,000 for the 2023 tax year, whichever is less.Assume your S-Corp had a salary of $100,000; you can set aside up to 25% of your salary or $25,000.This would yield a tax savings of $5,500 at your marginal rate.",
+      "Action Items": "Adopt an IRS approved SEP-IRA using Form 5305-SEP which is typically offered by qualified financial institutions.Document that the employee owns and controls the SEP-IRA.Keep track of important due dates related to the plan and contribution.",
+      "Ease of Implementation": "Moderate",
+      "Muse Image": "M1"
+    },
+    "A4": {
+      "Strategy Name": "Solo 401(k) Contributions",
+      "Description": "A Solo 401(k) allows you to make contributions in the role of the employee and as an employer.Specifically, you can make an employee contribution of $22,500 for 2023 combined with an employer contribution of 25% of your net earnings from self-employment.The total you can contribute to a Solo 401(k) in 2023 is $66,000 in 2023, with an additional $7,500 catch-up contribution if you are 50 or older.",
+      "Recommended Strategy": "This retirement tax strategy is quite common in a period of high income.Assuming your S-Corp has a salary of $100,000, the maximum profit-sharing contribution is $22,500, and 25% of total compensation is $25,000.The total maximum contribution is $47,500. This would yield a tax savings of $XX at your marginal rate.",
+      "Action Items": "Create a Solo 401(k) plan through a financial institution or payroll provider.Ideally, you want to pay your planned contribution by the due date of your return, which is typically April 15th, but you can file a tax extension which gives you a six month extension to fund your Solo 401(k).",
+      "Ease of Implementation": "Moderate",
+      "Muse Image": "M1"
+    },
+    "A5": {
+      "Strategy Name": "Hire Your Children",
+      "Description": "Hiring your child in your business allows you to lower your business income and pay less in income tax. You are able to pay your child up to the standard deduction amount ($13,850 for 2023) without paying any taxes on the income.Your business gets a deduction and since your child made less than the standard deduction, he or she doesn't have to pay taxes on the income.In addition, hiring your child  to help work in your business lets you establish employee benefit programs such as medical expense reimbursement, education assistance, and retirement plans to benefit them.",
+      "Recommended Strategy": "Hire your child and pay him/her up to $13,850 in tax-free income. Since your child will have earned income, they can contribute up to $6,000 to a Roth IRA per year. The money in the Roth IRA can compound and grow tax-free. Then one day, if your child chooses to buy a home, they could use up to $10,000 from that Roth IRA for their down payment without paying any taxes on the withdrawal.",
+      "Action Items": "Choose a job that's appropriate for children 18 years of age and younger.Jobs can vary from sweeping and cleaning to data entry based on age and reasonableness.Track their hours & pay them a fair wage. Write out a contract outlining their responsibilities.Fill out Form W-4 and file it with the IRS.",
+      "Ease of Implementation": "Moderate",
+      "Muse Image": "M2"
+    }
+  },
+  "Investments": {
+    "A11": {
+      "Strategy Name": "Cost Segregation Study",
+      "Description": "Cost segregation is a study to frontload depreciation deductions for real estate assets into the early years of ownership. When a property is purchased, its interior and exterior components can be depreciated (excluding land).Several components often fall into tax categories that can be written off much quicker than the building structure. Doing so allows for a larger deduction sooner than the typical 27 ½ or 39 years.The primary goal of a cost segregation study is to identify all property-related costs that can be depreciated over 5, 7, and 15 years such as fences, electrical wiring, walkways, flooring, roofs, furniture, and appliances. The overall reclassification of assets to short-life property commonly ranges between 10% and 40% of the depreciable cost basis, based on the property type.",
+      "Recommended Strategy": "Imagine you purchased a 4-unit apartment complex valued at $1M. Let's say the building is worth $750,000 (while the land is worth $250,000).If you did not hire a cost segregation firm to conduct a cost segregation study, you can write off $27,272 per year from your taxable income for 39 years. But, if you hired a cost segregation firm and it is determined that about 25% of the property depreciates in around 5 years, you can write off $50,000 annually from your taxable income for the next 5 years.That's an accelerated $22,278 in deductions over the next 5 years instead of over 39 years, lowering your taxable income in the near future.",
+      "Action Items": "Locate and work with a reputable company to conduct a cost segregation study.Submit Form 3115 to alter the depreciation method for the asset.",
+      "Ease of Implementation": "Advanced",
+      "Muse Image": "M8"
+    },
+    "A14": {
+      "Strategy Name": "Tax Loss Harvesting",
+      "Description": "Tax loss harvesting allows you to sell some long-term investments at a loss to offset your capital gains, thus lowering your taxes and rebalancing your portfolio with the proceeds received.The investments must be sold before the calendar year ends to claim the capital loss.The proceeds from these investments sold at a loss can then be reinvested to rebalance your portfolio.",
+      "Recommended Strategy": "Towards the end of the year, it's a good idea to look at your portfolio for underperforming assets like stocks, ETFs, managed funds, and cryptocurrency.If you had a few investments sitting at a loss, they can come in handy and can be your ticket to a lower tax bill — up to $3,000 a year.Consider selling some of those positions that are at a loss in order to offset the taxes resulting from a capital gain. Eventually, you may want to replace the asset sold at a loss with a similar investment after a certain timeframe (30 days).When capital losses are greater than capital gains, investors can deduct up to $3,000 from their taxable income.If net losses for a certain year exceed $3,000, the balance can be carried over and deducted on future returns.",
+      "Action Items": "",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M4"
+    },
+    "A17": {
+      "Strategy Name": "Augusta Rule - Tax Free Rental Income",
+      "Description": "According to the Augusta rule, if taxpayers rent a qualifying property for fewer than 15 days, they can receive rental income free of tax.The rule was created in response to Augusta, GA residents who wanted to rent their residences during the annual Masters golf tournament.To qualify for the income exemption, you must rent out a dwelling unit that you use as a personal residence and not your primary place of business. You can rent your primary or secondary home and qualify for the exclusion.Be careful; if you exceed 14 days, all income received from the rental becomes taxable income.",
+      "Recommended Strategy": "You can rent your home while on vacation or for business owners, it's a good way to shift income from your business to personal income and not pay taxes on that income.For example, as a business owner, you can host a monthly meeting with your team and have your business pay you a reasonable amount to rent your house. Under the Augusta Rule, as long as the total rental period doesn't exceed 14 days and the rent charged is reasonable, your business is able to deduct the rent payment on the business tax return and you won't have to report this as income on your personal taxes.Example:Assume a fair rental value of $150 per day for 14 days. ($150 x 14 x marginal rate = $XX)",
+      "Action Items": "Ensure that you have a rental agreement in place. You may want to list it on a rental website as well.You won't receive a deduction for any costs associated with the excluded rental income.Research local laws, restrictions and HOA ordinances related to short-term rentals.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M8"
+    }
+  },
+  "Retirement": {
+    "A27": {
+      "Strategy Name": "401(k) Employee Contributions",
+      "Description": "The most common retirement vehicle for Americans is a 401(k). By contributing to your employer-sponsored plan, you might encounter these three benefits.1)Your taxable income will be reduced by the number of contributions, which reduces your income taxes by your marginal rate.2)Your savings grow tax-free until withdrawn.3)Your employer might match your contributions, which is like earning free money just by saving.You can contribute $22,500 to your 401(k) in 2023 so it is a good idea to max it out to get the most benefit.",
+      "Recommended Strategy": "One of the main goals of tax planning is to maximize your retirement.With a 401(k), you can contribute pre-tax dollars, which reduces your taxable income and allows your money to grow tax-deferred until you withdraw it. Many employers offer matching contributions to your 401(k) plan, which means that for every dollar you contribute, your employer may also contribute a certain percentage, helping to increase your retirement savings.Assume you contribute the maximum of $22,500 at your marginal tax rate, that would yield $XX in tax savings.",
+      "Action Items": "Inquire with your employer/HR about their 401(k).If your employer has a 401(k), you should modify the 401(k) payroll deductions to reflect your desired contributions.Lastly, you should review specifics of your plan, such as contribution caps, employer matching offers, Roth and after-tax contribution options.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M1"
+    },
+    "A30": {
+      "Strategy Name": "Traditional Individual Retirement Account (IRA) contributions",
+      "Description": "A traditional Individual Retirement Account (IRA) is a retirement savings account that allows individuals to make pre-tax contributions to their retirement savings. Contributions to a traditional IRA may be tax-deductible, which means they can reduce your taxable income and lower your tax bill for the year you contribute.For the 2023 tax year, the maximum contribution limit for a traditional IRA is $6,500 for individuals under age 50 and $7,500 for those aged 50 and above.Make a contribution to a traditional IRA by Apr. 15 or file an extension that extends the contribution due date. Income limits apply if a retirement plan at work covers the taxpayers.",
+      "Recommended Strategy": "Many taxpayers may not know this, but you can have both a 401(k) and an IRA.The traditional IRA and 401(k) provides the benefit of tax-deferred savings for retirement.A Traditional IRA is a good option for your retirement savings goals. Assume you contribute the maximum of $6,500 at your marginal rate, that would yield a tax saving of $XX.",
+      "Action Items": "In case you don't already have an IRA, you can open an IRA at a financial institution.Make sure you make your contribution before April 15th or you can file a tax extension to give yourself more time to fund your IRA.",
+      "Ease of Implementation": "Simple",
+      "Muse Image": "M1"
+    }
+  }
+}
